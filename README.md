@@ -6,7 +6,7 @@
 
 ⚡ I'm an Electrical Engineering at Universidade Federal de Campina Grande (UFCG)
 
-💻 I'm interested in programming, automation, software engineering and electronics
+💻 I'm interested in embedded systems, programming, automation, software engineering and electronics
 
 🔎 You can visit my website [here](https://claricesoares.github.io/clarice-curriculo/)
 
