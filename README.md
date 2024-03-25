@@ -4,7 +4,7 @@
 
 </h1>
 
-⚡ I'm an Electrical Engineering at Universidade Federal de Campina Grande (UFCG)
+⚡ I'm an Electrical Engineering student at Universidade Federal de Campina Grande (UFCG)
 
 💻 I'm interested in embedded systems, programming, automation, software engineering and electronics
 
